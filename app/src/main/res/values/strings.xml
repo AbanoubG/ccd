@@ -3,7 +3,7 @@
 
     <string name="city_name">Coptic Church Directory</string>
     <string name="city_address">support@copticchurch-directory.org</string>
-    <string name="about_text">Simple app to find the church near you</string>
+    <string name="about_text">Coptic Churh Directory 1.0</string>
 
     <!--=== GOOGLE API KEY STRING ============================================================== -->
     <!--Replace with your own interstitial ad unit id. -->
@@ -109,7 +109,7 @@
     <!--=== fragment Category ================================================================== -->
     <string name="refresh_failed">Refresh failed</string>
     <string name="load_of">Load %1$d of %2$d</string>
-    <string name="load_success">Successfully load data</string>
+    <string name="load_success">Refreshed</string>
 
 
     <!-- ==================== OTHERS STRING ==================================================== -->

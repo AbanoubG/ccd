@@ -61,11 +61,11 @@
         <item>Featured </item>
     </string-array>
     <integer-array name="id_category">
-        <item>1</item> <!--CHURCH-->
-        <item>2</item> <!--MONASTERY-->
-        <item>3</item> <!--RETREAT_CENTER-->
-        <item>4</item> <!--COPTIC_COMMUNITY-->
-        <item>11</item> <!--FEATURED-->
+        <item>1</item> 
+        <item>2</item> 
+        <item>3</item> 
+        <item>4</item> 
+        <item>11</item> 
     </integer-array>
     <attr format="reference" name="drawerArrowStyle"/>
     <attr format="dimension" name="height"/>
@@ -725,7 +725,7 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
-    <string name="about_text">Simple app to find the church near you</string>
+    <string name="about_text">Coptic Churh Directory 1.0</string>
     <string name="accept">Accept</string>
     <string name="action_settings">Settings</string>
     <string name="activity_title_maps">@string/title_nav_all</string>
@@ -794,8 +794,8 @@
     <string name="no_internet">"No internet connection"</string>
     <string name="no_item">No Item</string>
     <string name="no_item_at">No Item at</string>
-    <string name="no_phone_number">do not have a phone</string>
-    <string name="no_website">do not have a website</string>
+    <string name="no_phone_number">No phone number lised</string>
+    <string name="no_website">dNo website listed</string>
     <string name="photos_title">Photos</string>
     <string name="please_fill">Please fill search input</string>
     <string name="pref_category_display">Display</string>

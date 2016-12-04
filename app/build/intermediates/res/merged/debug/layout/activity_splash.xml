@@ -19,13 +19,14 @@
             android:layout_height="wrap_content"
             android:text="@string/splash_welcome_text"
             android:textAppearance="@style/TextAppearance.AppCompat.Display1"
-            android:textColor="@android:color/white" />
+            android:textColor="@android:color/white"
+            android:visibility="invisible" />
 
         <ImageView
             android:layout_width="@dimen/splash_icon_size"
             android:layout_height="@dimen/splash_icon_size"
             android:layout_margin="@dimen/spacing_mlarge"
-            android:src="@drawable/splash_icon_" />
+            android:src="@drawable/icon_splash" />
 
         <TextView
             android:layout_width="@dimen/text_desc_width"

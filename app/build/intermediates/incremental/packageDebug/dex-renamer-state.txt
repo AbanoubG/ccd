@@ -1,4 +1,7 @@
-#Sat Dec 03 20:48:37 PST 2016
-base.0=C\:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
-renamed.0=classes.dex
-file.0=C\:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+#Sat Dec 03 22:55:34 PST 2016
+base.0=C\:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_2f71173c33af7158589c92d80d840157ffcd20d1
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_3d02330b044978bbb56c5dcff3578a1d92e88e71\\classes.dex
+base.1=C\:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_3d02330b044978bbb56c5dcff3578a1d92e88e71
+file.0=C\:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_2f71173c33af7158589c92d80d840157ffcd20d1\\classes.dex

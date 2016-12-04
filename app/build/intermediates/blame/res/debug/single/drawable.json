@@ -36,6 +36,10 @@
         "source": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_search_api_material.xml"
     },
     {
+        "merged": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_home.png",
+        "source": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\src\\main\\res\\drawable\\ic_home.png"
+    },
+    {
         "merged": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
         "source": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_tab_indicator_material.xml"
     },
@@ -164,6 +168,10 @@
         "source": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
     },
     {
+        "merged": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_splash.png",
+        "source": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\src\\main\\res\\drawable\\icon_splash.png"
+    },
+    {
         "merged": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
         "source": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_edit_text_material.xml"
     },
@@ -172,12 +180,16 @@
         "source": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\src\\main\\res\\drawable\\ic_nav_public.png"
     },
     {
+        "merged": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
         "merged": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_info_desc.png",
         "source": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\src\\main\\res\\drawable\\ic_info_desc.png"
     },
     {
-        "merged": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_check_material.xml"
+        "merged": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_monastery.png",
+        "source": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\src\\main\\res\\drawable\\ic_monastery.png"
     },
     {
         "merged": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_nav_featured.png",
@@ -198,6 +210,10 @@
     {
         "merged": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_info_loc.png",
         "source": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\src\\main\\res\\drawable\\ic_info_loc.png"
+    },
+    {
+        "merged": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_church.png",
+        "source": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\src\\main\\res\\drawable\\ic_church.png"
     },
     {
         "merged": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
@@ -280,16 +296,20 @@
         "source": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app_logo.png",
-        "source": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\src\\main\\res\\drawable\\app_logo.png"
-    },
-    {
         "merged": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
         "source": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
     },
     {
+        "merged": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app_logo.png",
+        "source": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\src\\main\\res\\drawable\\app_logo.png"
+    },
+    {
         "merged": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_nav_food.png",
         "source": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\src\\main\\res\\drawable\\ic_nav_food.png"
+    },
+    {
+        "merged": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_new_box.png",
+        "source": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\src\\main\\res\\drawable\\ic_new_box.png"
     },
     {
         "merged": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_share.png",
@@ -306,6 +326,10 @@
     {
         "merged": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_nav_favorites_outline.png",
         "source": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\src\\main\\res\\drawable\\ic_nav_favorites_outline.png"
+    },
+    {
+        "merged": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_community.png",
+        "source": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\src\\main\\res\\drawable\\ic_community.png"
     },
     {
         "merged": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",

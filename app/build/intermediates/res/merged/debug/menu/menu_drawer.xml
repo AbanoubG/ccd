@@ -18,23 +18,23 @@
         </group>
         <item
             android:id="@+id/nav_featured"
-            android:icon="@drawable/ic_nav_featured"
+            android:icon="@drawable/ic_new_box"
             android:title="@string/title_nav_featured" />
         <item
             android:id="@+id/nav_tour"
-            android:icon="@drawable/ic_nav_tour"
+            android:icon="@drawable/ic_church"
             android:title="@string/title_nav_tour" />
         <item
             android:id="@+id/nav_food"
-            android:icon="@drawable/ic_nav_food"
+            android:icon="@drawable/ic_monastery"
             android:title="@string/title_nav_food" />
         <item
             android:id="@+id/nav_hotels"
-            android:icon="@drawable/ic_nav_hotels"
+            android:icon="@drawable/ic_community"
             android:title="@string/title_nav_hotels" />
         <item
             android:id="@+id/nav_ent"
-            android:icon="@drawable/ic_nav_ent"
+            android:icon="@drawable/ic_home"
             android:title="@string/title_nav_ent" />
        <!-- <item
             android:id="@+id/nav_sport"
