@@ -1,15 +1,15 @@
 [
     {
-        "merged": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
-        "source": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\select_dialog_item_material.xml"
+        "merged": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_snackbar_include.xml"
     },
     {
         "merged": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
         "source": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
     {
-        "merged": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
-        "source": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_snackbar_include.xml"
+        "merged": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\select_dialog_item_material.xml"
     },
     {
         "merged": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
@@ -44,12 +44,12 @@
         "source": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_popup_menu_header_item_layout.xml"
     },
     {
-        "merged": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
-        "source": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item_separator.xml"
-    },
-    {
         "merged": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
         "source": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item_separator.xml"
     },
     {
         "merged": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",

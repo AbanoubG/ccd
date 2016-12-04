@@ -1,9 +1,9 @@
 <resources>
-    <string name="app_name">The City</string>
+    <string name="app_name">Coptic Church Directory</string>
 
-    <string name="city_name">Bandung</string>
-    <string name="city_address">Jawa Barat, Indonesia</string>
-    <string name="about_text">App display Interesting spot at City</string>
+    <string name="city_name">Coptic Church Directory</string>
+    <string name="city_address">support@copticchurch-directory.org</string>
+    <string name="about_text">Simple app to find the church near you</string>
 
     <!--=== GOOGLE API KEY STRING ============================================================== -->
     <!--Replace with your own interstitial ad unit id. -->
@@ -17,20 +17,20 @@
     <!--=== Nav Drawer Menu Items ============================================================== -->
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="title_nav_all">All Places</string>
+    <string name="title_nav_all">All</string>
     <string name="title_nav_fav">Favorites</string>
 
-    <string name="title_nav_featured">Featured Places</string>
-    <string name="title_nav_tour">Tourist Destination</string>
-    <string name="title_nav_food">Food \u0026 Drink</string>
-    <string name="title_nav_hotels">Hotels</string>
-    <string name="title_nav_ent">Entertainment</string>
-    <string name="title_nav_sport">Sport</string>
+    <string name="title_nav_featured">Recently Added</string>
+    <string name="title_nav_tour">Churches</string>
+    <string name="title_nav_food">Monasteries</string>
+    <string name="title_nav_hotels">Coptic Communities</string>
+    <string name="title_nav_ent">Retreat Centers</string>
+    <!--<string name="title_nav_sport">Sport</string>
     <string name="title_nav_shop">Shopping</string>
     <string name="title_nav_transport">Transportation</string>
     <string name="title_nav_religion">Religion</string>
     <string name="title_nav_public">Public Services</string>
-    <string name="title_nav_money">Money</string>
+    <string name="title_nav_money">Money</string>-->
 
     <!--=== activity FullScreenImage =========================================================== -->
     <string name="image_of">%1$d of %2$d</string>
@@ -48,8 +48,8 @@
     <!--=== activity PlaceDetails ============================================================== -->
     <string name="add_favorite">added to favorites</string>
     <string name="remove_favorite">remove from favorites</string>
-    <string name="no_phone_number">do not have a phone</string>
-    <string name="no_website">do not have a website</string>
+    <string name="no_phone_number">No phone number lised</string>
+    <string name="no_website">dNo website listed</string>
     <string name="fail_dial_number">Cannot dial phone number</string>
     <string name="fail_open_website">Cannot open website</string>
     <string name="unable_create_map">Sorry! unable to create maps</string>
@@ -61,12 +61,12 @@
     <string name="map_navigate">NAVIGATE</string>
 
     <!--=== activity Search ==================================================================== -->
-    <string name="hint_search">Search Place...</string>
+    <string name="hint_search">Search church...</string>
     <string name="please_fill">Please fill search input</string>
 
     <!--=== activity Setting =================================================================== -->
-    <string name="developer_name">Dream Space</string>
-    <string name="copyright">Copyright © 2016 Dream Space. \nAll right reserved</string>
+    <string name="developer_name">Coptic Church Directory</string>
+    <string name="copyright">Creative Commons BY © 2016  \nCoptic Church Directory</string>
     <string name="pref_category_notif">Notifications</string>
     <string name="pref_category_display">Display</string>
     <string name="pref_category_other">Others</string>
@@ -81,7 +81,7 @@
     <string name="pref_ringtone_silent">Silent</string>
     <string name="pref_title_copyright">Copyright</string>
     <string name="pref_title_dev_name">Developed By</string>
-    <string name="pref_title_term">Term &amp; Policies</string>
+    <string name="pref_title_term">Acknowledgements</string>
 
     <string name="pref_key_notif">key_notifications</string>
     <string name="pref_key_ringtone">key_ringtone</string>
@@ -97,16 +97,14 @@
     <string name="title_dialog_theme">Color Theme</string>
     <string name="grant_permission_account_storage">Grant account, storage permission to enable</string>
     <string name="content_term">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed dolor risus, aliquet a erat quis, viverra molestie orci. Suspendisse vehicula porta libero. Nam tincidunt nulla ipsum, vel iaculis risus scelerisque sed. Phasellus venenatis, enim vel placerat blandit, leo eros bibendum erat, at auctor mauris diam ac risus. Aenean sit amet congue neque, sit amet condimentum elit. Fusce lacinia massa vel nisl scelerisque, in scelerisque dolor elementum. Vivamus leo enim, congue dictum congue vitae, porttitor id purus. Sed eu ultricies erat. Morbi hendrerit, mi ac volutpat commodo, magna turpis pretium nibh, at fringilla eros lorem quis tellus. Praesent porttitor purus nibh, ac vestibulum massa fringilla vel. Pellentesque dapibus nulla quis luctus dictum. In scelerisque ut ex sed facilisis. Nunc eu finibus nulla, ut hendrerit sem. Suspendisse accumsan risus vel diam fringilla iaculis.
-        \n\nQuisque facilisis finibus aliquam. Sed mattis, dui fringilla ornare finibus, orci odio blandit risus, ut maximus dui odio non leo. Donec laoreet lacus nisi, a mollis velit suscipit ac. Quisque faucibus ut nisl in congue. Nam sagittis consectetur tempus. Suspendisse eget posuere dui. Donec ultricies velit ex, vel cursus odio sollicitudin in. Nullam faucibus auctor ligula, eu rhoncus dui facilisis a. Curabitur vel feugiat est. Quisque congue at enim eleifend ultrices. Proin dapibus risus lorem, nec condimentum nunc consequat vitae. Quisque sapien lorem, vestibulum vitae justo eget, fringilla eleifend nisi.
-        \n\nMauris ultricies augue sit amet est sollicitudin laoreet. Fusce ut congue felis. Fusce dictum tristique elit nec iaculis. Mauris sodales tempus fringilla. Fusce nec nunc tempus, tempor sapien sit amet, ultricies erat. Mauris ultrices ac lorem ultrices facilisis. Nam pharetra, nisi a imperdiet interdum, nunc justo ultricies nisl, a laoreet massa dui vel enim. Pellentesque et magna ac tellus ullamcorper malesuada a ac nisl. Curabitur id est et neque convallis accumsan. Aliquam eleifend varius massa. Curabitur eu finibus tortor.
-        \n\nVivamus aliquam nisl rutrum orci volutpat porta in ornare est. Quisque ligula ipsum, vulputate id aliquam vitae, semper vitae orci. Nam non pulvinar ligula, eget tincidunt ante. Quisque sapien massa, varius tempus pretium id, vehicula at magna. Ut ut ultrices augue. Nam nec ullamcorper tellus, at finibus lectus. Fusce vel iaculis mauris, id porta nulla. Aenean ac mollis sapien. Morbi imperdiet augue tempus nulla luctus, sit amet feugiat purus elementum.
+        Content such as the description of the church history, church information, and serving clergy have been collected from the various diocese websites. Some of which include the Diocese of Los Angeles, Southern California, and Hawaii. the Diocese of the Southern United States and the Diocese of New York and New England.  Nihov’s Worldwide Coptic Directory played an instrumental role in finding many of the churches along with the description of the church and the serving priest(s).
+
     </string>
 
 
     <!--=== activity Splash ==================================================================== -->
     <string name="splash_welcome_text">WELCOME</string>
-    <string name="splash_desc_text">Browse all the interesting place using The City app</string>
+    <string name="splash_desc_text">Find the Coptic Church near you</string>
 
     <!--=== fragment Category ================================================================== -->
     <string name="refresh_failed">Refresh failed</string>

@@ -8,8 +8,6 @@
         <item>2</item> <!--MONASTERY-->
         <item>3</item> <!--RETREAT_CENTER-->
         <item>4</item> <!--COPTIC_COMMUNITY-->
-
-
         <item>11</item> <!--FEATURED-->
     </integer-array>
 
@@ -18,8 +16,6 @@
         <item>Monastery</item>
         <item>Retreat Center</item>
         <item>Coptic Community</item>
-
-
         <item>Featured </item>
     </string-array>
 

@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sat Dec 03 16:51:26 PST 2016
+#Sat Dec 03 20:21:09 PST 2016
 210.set=ANDROID_RESOURCE
 282.file=C\:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_spinner_textfield_background_material.xml
 14.set=ANDROID_RESOURCE

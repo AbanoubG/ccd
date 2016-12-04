@@ -32,7 +32,7 @@
                 android:id="@+id/nav_ent"
                 android:title="@string/title_nav_ent"
                 app:showAsAction="never" />
-            <item
+           <!-- <item
                 android:id="@+id/nav_sport"
                 android:title="@string/title_nav_sport"
                 app:showAsAction="never" />
@@ -55,7 +55,7 @@
             <item
                 android:id="@+id/nav_money"
                 android:title="@string/title_nav_money"
-                app:showAsAction="never" />
+                app:showAsAction="never" />-->
         </menu>
 
     </item>

@@ -5,37 +5,37 @@
     density="420dpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="164118218998603"
+    timestamp="170932730525700"
     token="8694298581345337291"
-    verifier="STATIC_INITIALIZER_CHANGE" >
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="891" />
+        duration="729" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="18" />
+        duration="34" />
     <task
         name="verifier"
-        duration="1" />
+        duration="8" />
 
     <artifact
-        location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
+        location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
         type="DEX" />
 
     <build
-        timestamp="157269347805094"
+        timestamp="165363874903316"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Android Studio Projects\Coptic Church Directory\app\build\outputs\apk\The City 5.0.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="160764846249586"
-        verifier="STATIC_INITIALIZER_CHANGE" >
+        timestamp="169698226782525"
+        verifier="R_CLASS_CHANGE" >
         <artifact
             location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
             type="DEX" />
@@ -49,19 +49,19 @@
             location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
             type="DEX" />
         <artifact
-            location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+            location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
             type="DEX" />
         <artifact
-            location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
+            location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
             type="DEX" />
         <artifact
             location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
             type="DEX" />
         <artifact
-            location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.8.0_ccb934cca56e220bca6f00e1f364fb3c71466385\classes.dex"
+            location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
             type="DEX" />
         <artifact
-            location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
+            location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.8.0_ccb934cca56e220bca6f00e1f364fb3c71466385\classes.dex"
             type="DEX" />
         <artifact
             location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
@@ -70,13 +70,13 @@
             location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.8.0_9651f8a4361269efa0c7c0ec2947c2d543f3e6cf\classes.dex"
             type="DEX" />
         <artifact
+            location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
+            type="DEX" />
+        <artifact
             location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.1.0_6cd645e716ae6f02d939fde22972f0346ccc7de0\classes.dex"
             type="DEX" />
         <artifact
             location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_be0ac7dba3ceb067e1aff7c22b3890d44d6d8fd1\classes.dex"
-            type="DEX" />
-        <artifact
-            location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.8.0_a460e03901eb90971cd9df227d9e39201e8d570b\classes.dex"
             type="DEX" />
         <artifact
             location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.8.0_1a45cbbf491d29d957ffb84b9c064f06f8805801\classes.dex"
@@ -85,16 +85,19 @@
             location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_683163322db1d89b3d8edbbadd36bc358076e948\classes.dex"
             type="DEX" />
         <artifact
+            location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.8.0_a460e03901eb90971cd9df227d9e39201e8d570b\classes.dex"
+            type="DEX" />
+        <artifact
             location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\universal-image-loader-1.9.5_20fde6c5ccdc87eb4fe6b6573fa86e443b792d99\classes.dex"
             type="DEX" />
         <artifact
             location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.8.0_6b6faa4ede18d3d45c1970d867e5eb0937cba61b\classes.dex"
             type="DEX" />
         <artifact
-            location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_6ea7b5d3e25cc6902455d780f9ad9abea400ef0e\classes.dex"
+            location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_51ab8e49c51eb6b40b12d5e51e47a9a0a57c5bb3\classes.dex"
             type="DEX" />
         <artifact
-            location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_51ab8e49c51eb6b40b12d5e51e47a9a0a57c5bb3\classes.dex"
+            location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_6ea7b5d3e25cc6902455d780f9ad9abea400ef0e\classes.dex"
             type="DEX" />
         <artifact
             location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_43581bfb8172c3d8dbe2cab084810a8e44ccdd6d\classes.dex"
@@ -103,25 +106,25 @@
             location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3d02330b044978bbb56c5dcff3578a1d92e88e71\classes.dex"
             type="DEX" />
         <artifact
-            location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.8.0_a07ca1716f15de9cd7e34ae344b7f17dbc62de6b\classes.dex"
-            type="DEX" />
-        <artifact
             location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_117bdba62f91cf6e5c3706ac3e785cd05b0233fe\classes.dex"
             type="DEX" />
         <artifact
-            location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_ee9a21ba85be16216fb1a27665af6ab83fc12f67\classes.dex"
+            location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.8.0_a07ca1716f15de9cd7e34ae344b7f17dbc62de6b\classes.dex"
             type="DEX" />
         <artifact
             location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_ca58945f965d40938ccb760d7e16d76023ee2187\classes.dex"
             type="DEX" />
         <artifact
-            location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.maps.android-android-maps-utils-0.4.3_b88d142ee0684a52790c72c5bf5d61b50ae23eaa\classes.dex"
+            location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_ee9a21ba85be16216fb1a27665af6ab83fc12f67\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.8.0_6884dda5ff0ddbfac863aef0752b536a99a15eee\classes.dex"
             type="DEX" />
         <artifact
             location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_afb1950315d6800f83493d6f2c8be45562cd9dc9\classes.dex"
             type="DEX" />
         <artifact
-            location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.8.0_6884dda5ff0ddbfac863aef0752b536a99a15eee\classes.dex"
+            location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.maps.android-android-maps-utils-0.4.3_b88d142ee0684a52790c72c5bf5d61b50ae23eaa\classes.dex"
             type="DEX" />
         <artifact
             location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_90aa6974aa3b243afe3f39bf2868842523377913\classes.dex"
@@ -136,25 +139,22 @@
             location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.8.0_68aa6831df14b9dc537ecccb42309538adc7e595\classes.dex"
             type="DEX" />
         <artifact
-            location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.8.0_40b40b179aee913b893bdeec286bb3742419ff62\classes.dex"
-            type="DEX" />
-        <artifact
             location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.3.0_fc30bdac6f55c205ca64dd4f0397ef17496aad0f\classes.dex"
             type="DEX" />
         <artifact
-            location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.2.1_e4eee6429eeef67746c91d2e99ba62867f6fe0fd\classes.dex"
-            type="DEX" />
-        <artifact
-            location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_d5636eea2e1e2d05cb6fd84f6bbc587746a09157\classes.dex"
+            location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.8.0_40b40b179aee913b893bdeec286bb3742419ff62\classes.dex"
             type="DEX" />
         <artifact
             location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_805add52f1b45b75aed2358f23c0c4d3ba502e96\classes.dex"
             type="DEX" />
         <artifact
-            location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.1.0_6afa73727a2c366e368507706532612382858927\classes.dex"
+            location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_d5636eea2e1e2d05cb6fd84f6bbc587746a09157\classes.dex"
             type="DEX" />
         <artifact
-            location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_27db3650e24e57728af581dd64019f4626c3446a\classes.dex"
+            location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.2.1_e4eee6429eeef67746c91d2e99ba62867f6fe0fd\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.1.0_6afa73727a2c366e368507706532612382858927\classes.dex"
             type="DEX" />
         <artifact
             location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.8.0_5cb28c22a47172ed7746d22c1c6cb9e50dea7bc5\classes.dex"
@@ -163,36 +163,32 @@
             location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_2db77939ef75d4572cc059ec91b5238fa9b50bbc\classes.dex"
             type="DEX" />
         <artifact
+            location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_27db3650e24e57728af581dd64019f4626c3446a\classes.dex"
+            type="DEX" />
+        <artifact
             location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_5645af89aa3b35ae152db639c591d89495059c67\classes.dex"
-            type="DEX" />
-        <artifact
-            location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_699415cda7c77bad1e14b89980b07e1f40bcece8\classes.dex"
-            type="DEX" />
-        <artifact
-            location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.8.0_1fe027278ea890d92ac056c74113162ca9f506db\classes.dex"
             type="DEX" />
         <artifact
             location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_777fc9158b8bca6e1b78da6858614a3dd7395684\classes.dex"
             type="DEX" />
         <artifact
-            location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_2f71173c33af7158589c92d80d840157ffcd20d1\classes.dex"
+            location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.8.0_1fe027278ea890d92ac056c74113162ca9f506db\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_699415cda7c77bad1e14b89980b07e1f40bcece8\classes.dex"
             type="DEX" />
         <artifact
             location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_cc193adcfe570288d2ea8eae97215a70daef88cc\classes.dex"
             type="DEX" />
-    </build>
-    <build
-        timestamp="162396682351083"
-        verifier="FIELD_TYPE_CHANGE" >
         <artifact
-            location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+            location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_2f71173c33af7158589c92d80d840157ffcd20d1\classes.dex"
             type="DEX" />
     </build>
     <build
-        timestamp="164118218998603"
-        verifier="STATIC_INITIALIZER_CHANGE" >
+        timestamp="170932730525700"
+        verifier="COLD_SWAP_REQUESTED" >
         <artifact
-            location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
+            location="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
             type="DEX" />
     </build>
 

@@ -2,15 +2,6 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
-        <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_d5636eea2e1e2d05cb6fd84f6bbc587746a09157\classes.dex" />
-    </item>
-    <item
         is-multidex="false"
         jar="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.8.0\jars\classes.jar"
         jumboMode="false"
@@ -30,39 +21,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_cc193adcfe570288d2ea8eae97215a70daef88cc.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.3"
         sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
         <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_699415cda7c77bad1e14b89980b07e1f40bcece8.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_117bdba62f91cf6e5c3706ac3e785cd05b0233fe\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\penan\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
-        <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\pre-dexed\debug\okio-1.8.0_40b40b179aee913b893bdeec286bb3742419ff62.jar" />
     </item>
     <item
         is-multidex="false"
@@ -72,33 +36,6 @@
         revision="24.0.3"
         sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
         <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.5_20fde6c5ccdc87eb4fe6b6573fa86e443b792d99.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
-        <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.8.0_6b6faa4ede18d3d45c1970d867e5eb0937cba61b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
-        <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_ca58945f965d40938ccb760d7e16d76023ee2187\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.maps.android\android-maps-utils\0.4.3\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="4d3de1e946207667e76261421de0218f132960e0">
-        <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\pre-dexed\debug\com.google.maps.android-android-maps-utils-0.4.3_b88d142ee0684a52790c72c5bf5d61b50ae23eaa.jar" />
     </item>
     <item
         is-multidex="false"
@@ -111,21 +48,129 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_777fc9158b8bca6e1b78da6858614a3dd7395684.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.8.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.3"
         sha1="9dae58326f6f6a515022468cce56dd04ec3b9fdb">
         <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-9.8.0_5cb28c22a47172ed7746d22c1c6cb9e50dea7bc5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-clearcut-9.8.0_68aa6831df14b9dc537ecccb42309538adc7e595.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
+        <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-iid-9.8.0_6884dda5ff0ddbfac863aef0752b536a99a15eee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_6ea7b5d3e25cc6902455d780f9ad9abea400ef0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_afb1950315d6800f83493d6f2c8be45562cd9dc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_d5636eea2e1e2d05cb6fd84f6bbc587746a09157.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.8.0_6b6faa4ede18d3d45c1970d867e5eb0937cba61b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_43581bfb8172c3d8dbe2cab084810a8e44ccdd6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="50e35ae101a679c4c8ef3dda075b1df9d5d947d9">
+        <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-impl-9.8.0_1fe027278ea890d92ac056c74113162ca9f506db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_90aa6974aa3b243afe3f39bf2868842523377913.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_cc193adcfe570288d2ea8eae97215a70daef88cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\penan\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\pre-dexed\debug\okio-1.8.0_40b40b179aee913b893bdeec286bb3742419ff62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.maps.android\android-maps-utils\0.4.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4d3de1e946207667e76261421de0218f132960e0">
+        <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\pre-dexed\debug\com.google.maps.android-android-maps-utils-0.4.3_b88d142ee0684a52790c72c5bf5d61b50ae23eaa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_777fc9158b8bca6e1b78da6858614a3dd7395684.jar" />
     </item>
     <item
         is-multidex="false"
@@ -155,15 +200,6 @@
         <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\pre-dexed\debug\gson-2.7_ee9a21ba85be16216fb1a27665af6ab83fc12f67.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_27db3650e24e57728af581dd64019f4626c3446a\classes.dex" />
-    </item>
-    <item
         is-multidex="false"
         jar="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.8.0\jars\classes.jar"
         jumboMode="false"
@@ -173,15 +209,6 @@
         <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-9.8.0_8e0dc3eed908dd866ce8a6b58541e8cf86b728d4.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
-        <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.8.0_9651f8a4361269efa0c7c0ec2947c2d543f3e6cf\classes.dex" />
-    </item>
-    <item
         is-multidex="false"
         jar="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
         jumboMode="false"
@@ -189,15 +216,6 @@
         revision="24.0.3"
         sha1="7e92aadd0697922316d1395c1887a23aebec640a">
         <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.8.0_1a45cbbf491d29d957ffb84b9c064f06f8805801.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.8.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
-        <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-clearcut-9.8.0_68aa6831df14b9dc537ecccb42309538adc7e595.jar" />
     </item>
     <item
         is-multidex="false"
@@ -218,15 +236,6 @@
         <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.8.0_a07ca1716f15de9cd7e34ae344b7f17dbc62de6b.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_be0ac7dba3ceb067e1aff7c22b3890d44d6d8fd1\classes.dex" />
-    </item>
-    <item
         is-multidex="false"
         jar="C:\Users\penan\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
         jumboMode="false"
@@ -234,15 +243,6 @@
         revision="24.0.3"
         sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
         <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\pre-dexed\debug\converter-gson-2.1.0_6afa73727a2c366e368507706532612382858927.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_43581bfb8172c3d8dbe2cab084810a8e44ccdd6d\classes.dex" />
     </item>
     <item
         is-multidex="false"
@@ -254,15 +254,6 @@
         <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\pre-dexed\debug\retrofit-2.1.0_6cd645e716ae6f02d939fde22972f0346ccc7de0.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="50e35ae101a679c4c8ef3dda075b1df9d5d947d9">
-        <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.8.0_1fe027278ea890d92ac056c74113162ca9f506db\classes.dex" />
-    </item>
-    <item
         is-multidex="false"
         jar="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
         jumboMode="false"
@@ -270,60 +261,6 @@
         revision="24.0.3"
         sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
         <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_5645af89aa3b35ae152db639c591d89495059c67.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.8.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
-        <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-iid-9.8.0_6884dda5ff0ddbfac863aef0752b536a99a15eee.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\penan\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
-        <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.3.0_fc30bdac6f55c205ca64dd4f0397ef17496aad0f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
-        <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.2.1_e4eee6429eeef67746c91d2e99ba62867f6fe0fd\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_6ea7b5d3e25cc6902455d780f9ad9abea400ef0e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_afb1950315d6800f83493d6f2c8be45562cd9dc9.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_90aa6974aa3b243afe3f39bf2868842523377913\classes.dex" />
     </item>
     <item
         is-multidex="false"
@@ -353,78 +290,6 @@
         <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\pre-dexed\debug\com.balysv-material-ripple-1.0.2_443ba0a26cad93af5654d29705eb74cb8d89372b.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_cc193adcfe570288d2ea8eae97215a70daef88cc\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
-        <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.8.0_4496b36b675bf437ca0400dfff14bab60b977aef\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_683163322db1d89b3d8edbbadd36bc358076e948\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="9dae58326f6f6a515022468cce56dd04ec3b9fdb">
-        <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.8.0_5cb28c22a47172ed7746d22c1c6cb9e50dea7bc5\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\penan\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
-        <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.8.0_40b40b179aee913b893bdeec286bb3742419ff62\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_699415cda7c77bad1e14b89980b07e1f40bcece8\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
-        <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_d5636eea2e1e2d05cb6fd84f6bbc587746a09157.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\penan\.gradle\caches\modules-2\files-2.1\com.nostra13.universalimageloader\universal-image-loader\1.9.5\442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375\universal-image-loader-1.9.5.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
-        <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\universal-image-loader-1.9.5_20fde6c5ccdc87eb4fe6b6573fa86e443b792d99\classes.dex" />
-    </item>
-    <item
         is-multidex="false"
         jar="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
         jumboMode="false"
@@ -432,60 +297,6 @@
         revision="24.0.3"
         sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
         <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_117bdba62f91cf6e5c3706ac3e785cd05b0233fe.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.maps.android\android-maps-utils\0.4.3\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="4d3de1e946207667e76261421de0218f132960e0">
-        <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.maps.android-android-maps-utils-0.4.3_b88d142ee0684a52790c72c5bf5d61b50ae23eaa\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
-        <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.8.0_6b6faa4ede18d3d45c1970d867e5eb0937cba61b.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="76d565affc3081d952793fc17830dcedc41f6616">
-        <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_2f71173c33af7158589c92d80d840157ffcd20d1\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_777fc9158b8bca6e1b78da6858614a3dd7395684\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_2db77939ef75d4572cc059ec91b5238fa9b50bbc\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
-        <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.8.0_ccb934cca56e220bca6f00e1f364fb3c71466385\classes.dex" />
     </item>
     <item
         is-multidex="false"
@@ -497,15 +308,6 @@
         <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_27db3650e24e57728af581dd64019f4626c3446a.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
-        <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.8.0_68aa6831df14b9dc537ecccb42309538adc7e595\classes.dex" />
-    </item>
-    <item
         is-multidex="false"
         jar="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\jars\classes.jar"
         jumboMode="false"
@@ -513,78 +315,6 @@
         revision="24.0.3"
         sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
         <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-9.8.0_9651f8a4361269efa0c7c0ec2947c2d543f3e6cf.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\penan\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
-        <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_ee9a21ba85be16216fb1a27665af6ab83fc12f67\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="16afe57c1d7f8165d107c7806ce7b0c71de87159">
-        <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.8.0_8e0dc3eed908dd866ce8a6b58541e8cf86b728d4\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_43581bfb8172c3d8dbe2cab084810a8e44ccdd6d.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
-        <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.8.0_a460e03901eb90971cd9df227d9e39201e8d570b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
-        <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.8.0_1a45cbbf491d29d957ffb84b9c064f06f8805801\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\penan\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
-        <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.1.0_6afa73727a2c366e368507706532612382858927\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.8.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="50e35ae101a679c4c8ef3dda075b1df9d5d947d9">
-        <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-impl-9.8.0_1fe027278ea890d92ac056c74113162ca9f506db.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
-        <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.8.0_a07ca1716f15de9cd7e34ae344b7f17dbc62de6b\classes.dex" />
     </item>
     <item
         is-multidex="false"
@@ -596,15 +326,6 @@
         <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_ca58945f965d40938ccb760d7e16d76023ee2187.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\penan\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
-        <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.1.0_6cd645e716ae6f02d939fde22972f0346ccc7de0\classes.dex" />
-    </item>
-    <item
         is-multidex="false"
         jar="C:\Users\penan\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
         jumboMode="false"
@@ -614,15 +335,6 @@
         <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\pre-dexed\debug\okhttp-3.3.0_fc30bdac6f55c205ca64dd4f0397ef17496aad0f.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_5645af89aa3b35ae152db639c591d89495059c67\classes.dex" />
-    </item>
-    <item
         is-multidex="false"
         jar="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
         jumboMode="false"
@@ -630,78 +342,6 @@
         revision="24.0.3"
         sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
         <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-24.2.1_e4eee6429eeef67746c91d2e99ba62867f6fe0fd.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_afb1950315d6800f83493d6f2c8be45562cd9dc9\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_6ea7b5d3e25cc6902455d780f9ad9abea400ef0e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\penan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_51ab8e49c51eb6b40b12d5e51e47a9a0a57c5bb3\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_805add52f1b45b75aed2358f23c0c4d3ba502e96\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_90aa6974aa3b243afe3f39bf2868842523377913.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
-        <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.8.0_6884dda5ff0ddbfac863aef0752b536a99a15eee\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.balysv\material-ripple\1.0.2\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="c733e9d1b065d940a08f2fca0ff920dfc08d94cc">
-        <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.balysv-material-ripple-1.0.2_443ba0a26cad93af5654d29705eb74cb8d89372b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="32b3cd068cfe427f3bffa4a5fed2cf9117cb2d0d">
-        <dex dex="C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3d02330b044978bbb56c5dcff3578a1d92e88e71\classes.dex" />
     </item>
 
 </items>

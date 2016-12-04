@@ -18,7 +18,7 @@
         </group>
         <item
             android:id="@+id/nav_featured"
-            android:icon="@drawable/ic_nav_featured"
+            android:icon="@drawable/ic_new_box"
             android:title="@string/title_nav_featured" />
         <item
             android:id="@+id/nav_tour"
@@ -36,11 +36,11 @@
             android:id="@+id/nav_ent"
             android:icon="@drawable/ic_nav_ent"
             android:title="@string/title_nav_ent" />
-        <item
+       <!-- <item
             android:id="@+id/nav_sport"
             android:icon="@drawable/ic_nav_sport"
-            android:title="@string/title_nav_sport" />
-        <item
+            android:title="@string/title_nav_sport" />-->
+        <!--<item
             android:id="@+id/nav_shop"
             android:icon="@drawable/ic_nav_shop"
             android:title="@string/title_nav_shop" />
@@ -59,7 +59,7 @@
         <item
             android:id="@+id/nav_money"
             android:icon="@drawable/ic_nav_money"
-            android:title="@string/title_nav_money" />
+            android:title="@string/title_nav_money" />-->
     </group>
     <!--Tourist Destination-->
     <!--Food & Drink-->

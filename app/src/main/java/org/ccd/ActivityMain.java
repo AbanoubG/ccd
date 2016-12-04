@@ -184,7 +184,7 @@ public class ActivityMain extends AppCompatActivity {
                 break;
             case R.id.nav_featured:
                 fragment = new FragmentCategory();
-                bundle.putInt(FragmentCategory.TAG_CATEGORY, cat[10]);
+                bundle.putInt(FragmentCategory.TAG_CATEGORY, cat[4]);
                 break;
             case R.id.nav_tour:
                 fragment = new FragmentCategory();
@@ -202,7 +202,7 @@ public class ActivityMain extends AppCompatActivity {
                 fragment = new FragmentCategory();
                 bundle.putInt(FragmentCategory.TAG_CATEGORY, cat[3]);
                 break;
-            case R.id.nav_sport:
+            /*case R.id.nav_sport:
                 fragment = new FragmentCategory();
                 bundle.putInt(FragmentCategory.TAG_CATEGORY, cat[4]);
                 break;
@@ -225,7 +225,7 @@ public class ActivityMain extends AppCompatActivity {
             case R.id.nav_money:
                 fragment = new FragmentCategory();
                 bundle.putInt(FragmentCategory.TAG_CATEGORY, cat[9]);
-                break;
+                break;*/
             default:
                 break;
 

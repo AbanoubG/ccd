@@ -3,8 +3,8 @@ package org.ccd.data;
 public class AppConfig {
 
     // flag for display ads
-    public static final boolean ADS_MAIN_INTERSTITIAL = true;
-    public static final boolean ADS_PLACE_DETAILS_BANNER = true;
+    public static final boolean ADS_MAIN_INTERSTITIAL = false;
+    public static final boolean ADS_PLACE_DETAILS_BANNER = false;
 
     // flag for save image offline
     public static final boolean IMAGE_CACHE = true;
