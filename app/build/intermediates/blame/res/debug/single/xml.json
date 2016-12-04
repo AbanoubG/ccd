@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\res\\merged\\debug\\xml\\setting_notification.xml",
+        "source": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\src\\main\\res\\xml\\setting_notification.xml"
+    },
+    {
+        "merged": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\res\\merged\\debug\\xml\\app_tracker.xml",
+        "source": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\src\\main\\res\\xml\\app_tracker.xml"
+    }
+]

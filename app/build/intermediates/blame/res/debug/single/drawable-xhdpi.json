@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_clear.png",
+        "source": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\src\\main\\res\\drawable-xhdpi\\ic_clear.png"
+    },
+    {
+        "merged": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_refresh.png",
+        "source": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\src\\main\\res\\drawable-xhdpi\\ic_refresh.png"
+    },
+    {
+        "merged": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bubble_mask.9.png",
+        "source": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\drawable-xhdpi\\bubble_mask.9.png"
+    },
+    {
+        "merged": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bubble_shadow.9.png",
+        "source": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.3\\res\\drawable-xhdpi\\bubble_shadow.9.png"
+    },
+    {
+        "merged": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_search.png",
+        "source": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\src\\main\\res\\drawable-xhdpi\\ic_search.png"
+    }
+]

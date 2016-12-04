@@ -1,0 +1,61 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 24
+    buildToolsVersion "24.0.3"
+
+    defaultConfig {
+        applicationId "com.app.thecity"
+        minSdkVersion 14
+        targetSdkVersion 24
+        versionCode 5
+        versionName "5.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            signingConfig getSigningConfig()
+            applicationVariants.all { variant ->
+                variant.outputs.each { output ->
+                    def appName = "The City"
+                    def outputFile = output.outputFile
+                    if (outputFile != null && outputFile.name.endsWith('.apk')) {
+                        def fileName = appName + " " + defaultConfig.versionName + ".apk"
+                        output.outputFile = new File((String) outputFile.parent, (String) fileName)
+                    }
+                }
+            }
+        }
+    }
+}
+
+/* IMPORTANT :
+ * Be careful when update dependencies, different version library may caused error */
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    testCompile 'junit:junit:4.12'
+
+    // library for user interface
+    compile 'com.android.support:appcompat-v7:24.2.1'
+    compile 'com.android.support:cardview-v7:24.2.1'
+    compile 'com.android.support:recyclerview-v7:24.2.1'
+    compile 'com.android.support:design:24.2.1'
+    compile 'com.android.support:support-v4:24.2.1'
+    compile 'com.balysv:material-ripple:1.0.2'
+
+    // library for api
+    compile 'com.squareup.retrofit2:retrofit:2.1.0'
+    compile 'com.squareup.retrofit2:converter-gson:2.1.0'
+    compile 'com.google.code.gson:gson:2.4'
+
+    // library for loader image
+    compile 'com.nostra13.universalimageloader:universal-image-loader:1.9.5'
+
+    // others library
+    compile 'com.google.android.gms:play-services-maps:9.8.0'
+    compile 'com.google.android.gms:play-services-gcm:9.8.0'
+    compile 'com.google.android.gms:play-services-ads:9.8.0'
+    compile 'com.google.android.gms:play-services-analytics:9.8.0'
+    compile 'com.google.maps.android:android-maps-utils:0.4.3'
+}

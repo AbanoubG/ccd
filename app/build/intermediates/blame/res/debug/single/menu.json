@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_activity_maps.xml",
+        "source": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\src\\main\\res\\menu\\menu_activity_maps.xml"
+    },
+    {
+        "merged": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_fragment_category.xml",
+        "source": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\src\\main\\res\\menu\\menu_fragment_category.xml"
+    },
+    {
+        "merged": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_activity_details.xml",
+        "source": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\src\\main\\res\\menu\\menu_activity_details.xml"
+    },
+    {
+        "merged": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_drawer.xml",
+        "source": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\src\\main\\res\\menu\\menu_drawer.xml"
+    },
+    {
+        "merged": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_activity_main.xml",
+        "source": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\src\\main\\res\\menu\\menu_activity_main.xml"
+    }
+]

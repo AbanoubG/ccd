@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.app.thecity"
+    android:versionCode="5"
+    android:versionName="5.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="24" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+
+    <uses-feature android:name="android.hardware.location.gps" />
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" /> <!-- Optional permission for Analytics to run. -->
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <application
+        android:name="org.ccd.data.ThisApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="org.ccd.ActivitySplash" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="org.ccd.ActivityMain"
+            android:label="@string/app_name" />
+        <activity
+            android:name="org.ccd.ActivitySetting"
+            android:label="@string/activity_title_settings"
+            android:theme="@style/AppThemeSetting" />
+        <activity
+            android:name="org.ccd.ActivityMaps"
+            android:label="@string/activity_title_maps" />
+        <activity android:name="org.ccd.ActivityPlaceDetail" />
+        <activity android:name="org.ccd.ActivityFullScreenImage" />
+        <activity
+            android:name="com.google.android.gms.ads.AdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:theme="@android:style/Theme.Translucent" />
+
+        <receiver
+            android:name="org.ccd.gcm.GcmBroadcastReceiver"
+            android:permission="com.google.android.c2dm.permission.SEND" >
+            <intent-filter>
+
+                <!-- Receives the actual messages. -->
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+
+                <category android:name="com.app.materialrecipe" />
+            </intent-filter>
+        </receiver>
+
+        <!-- This meta-data tag is required to use Google Play Services. -->
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <!-- Add Google Map Library -->
+        <uses-library android:name="com.google.android.maps" />
+
+        <!-- Goolge API Key -->
+        <meta-data
+            android:name="com.google.android.maps.v2.API_KEY"
+            android:value="@string/api_key" />
+
+        <!-- service for receive gcm -->
+        <service android:name="org.ccd.gcm.GcmIntentService" />
+
+        <activity android:name="org.ccd.ActivitySearch" />
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <activity
+            android:name="com.google.android.gms.ads.purchase.InAppPurchaseActivity"
+            android:theme="@style/Theme.IAPTheme" />
+    </application>
+
+</manifest>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_refresh.png",
+        "source": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\src\\main\\res\\drawable-hdpi\\ic_refresh.png"
+    },
+    {
+        "merged": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_clear.png",
+        "source": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\src\\main\\res\\drawable-hdpi\\ic_clear.png"
+    },
+    {
+        "merged": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_search.png",
+        "source": "C:\\Android Studio Projects\\Coptic Church Directory\\app\\src\\main\\res\\drawable-hdpi\\ic_search.png"
+    }
+]

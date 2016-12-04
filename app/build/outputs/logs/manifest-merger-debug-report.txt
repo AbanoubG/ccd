@@ -1,0 +1,265 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:2:1-81:12
+	package
+		ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:3:5-22
+		INJECTED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-gcm:9.8.0] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.8.0\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:9.8.0] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.8.0\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-analytics:9.8.0] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.8.0\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.8.0\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:6:5-79
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-analytics:9.8.0] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.8.0\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.8.0\AndroidManifest.xml:21:5-78
+	android:name
+		ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:8:22-77
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:9:5-71
+	android:name
+		ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:9:22-68
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:10:22-73
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:11:5-82
+MERGED from [com.google.android.gms:play-services-gcm:9.8.0] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.8.0\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:9.8.0] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.8.0\AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:11:22-79
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:12:5-66
+	android:name
+		ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:12:22-63
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:14:22-78
+uses-feature#android.hardware.location.gps
+ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:16:5-66
+	android:name
+		ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:16:19-63
+application
+ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:18:5-79:19
+MERGED from [com.android.support:cardview-v7:24.2.1] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:24.2.1] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.balysv:material-ripple:1.0.2] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.balysv\material-ripple\1.0.2\AndroidManifest.xml:12:5-20
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gcm:9.8.0] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.8.0\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-iid:9.8.0] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.8.0\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-clearcut:9.8.0] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.8.0\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:9.8.0] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.8.0\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-analytics:9.8.0] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.8.0\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.8.0\AndroidManifest.xml:26:5-19
+MERGED from [com.google.maps.android:android-maps-utils:0.4.3] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.maps.android\android-maps-utils\0.4.3\AndroidManifest.xml:7:5-11:19
+	android:label
+		ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:22:9-41
+	android:supportsRtl
+		ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:24:9-35
+	android:allowBackup
+		ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:20:9-35
+	android:icon
+		ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:21:9-43
+	android:largeHeap
+		ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:23:9-33
+	android:theme
+		ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:25:9-40
+	android:name
+		ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:19:9-52
+activity#org.ccd.ActivitySplash
+ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:26:9-32:20
+	android:name
+		ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:26:19-56
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:30:27-74
+activity#org.ccd.ActivityMain
+ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:33:9-35:48
+	android:label
+		ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:35:13-45
+	android:name
+		ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:34:13-48
+activity#org.ccd.ActivitySetting
+ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:36:9-39:54
+	android:label
+		ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:38:13-60
+	android:theme
+		ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:39:13-51
+	android:name
+		ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:37:13-51
+activity#org.ccd.ActivityMaps
+ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:40:9-42:59
+	android:label
+		ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:42:13-56
+	android:name
+		ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:41:13-48
+activity#org.ccd.ActivityPlaceDetail
+ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:43:9-64
+	android:name
+		ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:43:19-61
+activity#org.ccd.ActivityFullScreenImage
+ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:44:9-68
+	android:name
+		ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:44:19-65
+activity#com.google.android.gms.ads.AdActivity
+ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:45:9-48:64
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:47:13-122
+	android:theme
+		ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:48:13-61
+	android:name
+		ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:46:13-65
+receiver#org.ccd.gcm.GcmBroadcastReceiver
+ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:50:9-60:20
+	android:permission
+		ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:52:13-73
+	android:name
+		ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:51:13-60
+intent-filter#com.app.materialrecipe+com.google.android.c2dm.intent.RECEIVE
+ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:53:13-59:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:56:17-81
+	android:name
+		ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:56:25-78
+category#com.app.materialrecipe
+ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:58:17-67
+	android:name
+		ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:58:27-64
+meta-data#com.google.android.gms.version
+ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:63:9-65:69
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:20:9-121
+MERGED from [com.google.maps.android:android-maps-utils:0.4.3] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.maps.android\android-maps-utils\0.4.3\AndroidManifest.xml:8:9-10:69
+	android:value
+		ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:65:13-66
+	android:name
+		ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:64:13-58
+uses-library#com.google.android.maps
+ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:68:9-64
+	android:name
+		ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:68:23-61
+meta-data#com.google.android.maps.v2.API_KEY
+ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:71:9-73:47
+	android:value
+		ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:73:13-44
+	android:name
+		ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:72:13-62
+service#org.ccd.gcm.GcmIntentService
+ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:76:9-64
+	android:name
+		ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:76:18-61
+activity#org.ccd.ActivitySearch
+ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:78:9-68
+	android:name
+		ADDED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml:78:19-56
+uses-sdk
+INJECTED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:cardview-v7:24.2.1] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:24.2.1] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.2.1] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:24.2.1] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:24.2.1] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.balysv:material-ripple:1.0.2] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.balysv\material-ripple\1.0.2\AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-gcm:9.8.0] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-iid:9.8.0] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-ads:9.8.0] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\AndroidManifest.xml:22:5-42
+MERGED from [com.google.android.gms:play-services-clearcut:9.8.0] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-gass:9.8.0] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.8.0\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-analytics:9.8.0] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.maps.android:android-maps-utils:0.4.3] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.maps.android\android-maps-utils\0.4.3\AndroidManifest.xml:5:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:24.2.1] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Android Studio Projects\Coptic Church Directory\app\src\main\AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:9.8.0] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:9.8.0] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:9.8.0] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\AndroidManifest.xml:19:19-85
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\AndroidManifest.xml:26:19-91
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:9.8.0] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.8.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.8.0\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:9.8.0] C:\Android Studio Projects\Coptic Church Directory\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.8.0\AndroidManifest.xml:24:22-65

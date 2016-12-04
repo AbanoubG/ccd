@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--this id_category must be same with id_category server database-->
+    <!--<item>cat_id same with server database value</item> -->
+    <integer-array name="id_category">
+        <item>1</item> <!--CHURCH-->
+        <item>2</item> <!--MONASTERY-->
+        <item>3</item> <!--RETREAT_CENTER-->
+        <item>4</item> <!--COPTIC_COMMUNITY-->
+
+
+        <item>11</item> <!--FEATURED-->
+    </integer-array>
+
+    <string-array name="category_name">
+        <item>Church</item>
+        <item>Monastery</item>
+        <item>Retreat Center</item>
+        <item>Coptic Community</item>
+
+
+        <item>Featured </item>
+    </string-array>
+
+    <integer-array name="category_icon">
+        <item>@drawable/ic_nav_tour</item>
+        <item>@drawable/ic_nav_food</item>
+        <item>@drawable/ic_nav_hotels</item>
+        <item>@drawable/ic_nav_ent</item>
+        <item>@drawable/ic_nav_sport</item>
+
+        <item>@drawable/ic_nav_shop</item>
+        <item>@drawable/ic_nav_transport</item>
+        <item>@drawable/ic_nav_religion</item>
+        <item>@drawable/ic_nav_public</item>
+        <item>@drawable/ic_nav_money</item>
+
+        <item>@drawable/ic_nav_featured</item>
+    </integer-array>
+
+
+</resources>
